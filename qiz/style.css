@@ -1,0 +1,55 @@
+header{
+    height: 100px;
+    width: 100%;
+    padding: 18px;
+    background-color: 4D375D;
+    text-align: center;
+    color: white;
+}
+footer{
+    height: 40px;
+    width: 100%;
+    background-color: 292939;
+    clear: both;
+    
+}
+a:link{
+    color: white;
+}
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: FFD500;
+}
+
+a:active {
+    color: 2BFF00;
+}
+.mainpane{
+<!--Main_Page-->
+    width: 100%;
+    height: 720px;
+    text-align: center;
+    background-color: 37375D;
+}
+.leftpane{
+<!--Questions-->
+    width: 41%;
+    height: 720px;
+    background-color: 37375D;
+    text-align: center;
+    float: left;
+}
+.rightpane{
+<!--Answers-->
+    width: 57%;
+    height: 720px;
+    background-color: 37375D;
+    text-align: left;
+    float: left;
+    
+}
+
+
