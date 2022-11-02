@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Czas generowania: 26 Paź 2022, 16:03
+-- Czas generowania: 02 Lis 2022, 16:04
 -- Wersja serwera: 10.4.24-MariaDB
 -- Wersja PHP: 8.1.6
 
@@ -104,7 +104,7 @@ INSERT INTO `questions` (`id`, `description`) VALUES
 (7, '1+7=?'),
 (8, '1+8=?'),
 (9, '1+9=?'),
-(10, '5+5=?');
+(10, '5+6=?');
 
 -- --------------------------------------------------------
 
