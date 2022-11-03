@@ -10,9 +10,7 @@
             foreach($_POST as $key=>$value){
                 echo "$key - $value";
                 $wynik = $wynik+$value;
-                
             };
-            "<br>";
             echo $wynik;
         ?>  
     </body>
